@@ -19,5 +19,5 @@ I am currently developing code to assist my doctoral research and consulting wor
 ## Contact info
 
 [<img src="https://www.iconsdb.com/icons/download/color/635353/website-design-32.png">](https://transportista.com.br)
-[<img src="https://www.iconsdb.com/icons/download/color/635353/linkedin-4-32.png">](https://www.linkedin.com/in/matheusfsiqueira/)
-[<img src="https://www.iconsdb.com/icons/download/color/635353/graduation-cap-32.png">](https://scholar.google.com.br/citations?user=HnadC1IAAAAJ&hl=pt-BR)
+[<img src="https://www.iconsdb.com/icons/download/color/635353/linkedin-4-32.png">](https://www.linkedin.com/in/matheusfontenelle/)
+[<img src="https://www.iconsdb.com/icons/download/color/635353/graduation-cap-32.png">](https://scholar.google.com.br/citations?user=HnadC1IAAAAJ)
