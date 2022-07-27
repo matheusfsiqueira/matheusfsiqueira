@@ -15,3 +15,9 @@ I consider myself an innovative person, seeking to improve processes with new to
 I am currently developing code to assist my doctoral research and consulting work in transportation planning. The main areas of work are:
 - Open data processing on mobility, land use and transportation;
 - Developing solutions to facilitate the visualization of transportation data;
+
+## Contact info
+
+[<img src="https://www.iconsdb.com/icons/download/color/2E3949/website-design-32.png">](https://transportista.com.br)
+[<img src="https://www.iconsdb.com/icons/download/color/2E3949/linkedin-4-32.png">](https://www.linkedin.com/in/matheusfsiqueira/)
+[<img src="https://www.iconsdb.com/icons/download/color/2E3949/graduation-cap-32.png">](https://scholar.google.com.br/citations?user=HnadC1IAAAAJ&hl=pt-BR)
