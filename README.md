@@ -13,7 +13,8 @@ I consider myself an innovative person, seeking to improve processes with new to
 ## Interests and development areas
 
 I am currently developing code to assist my doctoral research and consulting work in transportation planning. The main areas of work are:
-- Open data processing on mobility, land use and transportation;
+- Analyzing data on mobility, land use and transportation;
+- Accessibility measures and assessment
 - Developing solutions to facilitate the visualization of transportation data;
 
 ## Contact info
